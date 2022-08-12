@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>180611569236-ioj01hth9954gqa7fd71qdov9g9oi41m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.180611569236-ioj01hth9954gqa7fd71qdov9g9oi41m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzAdo6S4bWC1ulPYtpAu76sQU-DPgEH54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>180611569236</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ShopChop</string>
+	<key>PROJECT_ID</key>
+	<string>patika-62d58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>patika-62d58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:180611569236:ios:cc27491f481e41066dbfc1</string>
+</dict>
+</plist>
